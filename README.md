@@ -1,12 +1,12 @@
-# Nome do meu projeto
+# Projeto Gameflix
 
-Rápida descrição do objetivo de fazer esse projeto
+Site com todos os melhores jogos baseado na Netflix
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | Gameflix
 | :label: Tecnologias | HTML, CSS, Javascript
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | 
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
